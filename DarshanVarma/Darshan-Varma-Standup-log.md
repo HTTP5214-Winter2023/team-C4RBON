@@ -1,4 +1,4 @@
-# MUSKAN AGGARWAL - Standup log
+# DARSHAN VARMA - Standup log
 
 ## WEEK 1 - 11th Jan,2023
 
