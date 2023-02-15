@@ -10,12 +10,18 @@
 - Attended a Meeting
 - listed the pain points
 - Selected teams
-# Week 4 - February 1st, 2023
+# Week 4 - February 1st 2023
 - Attended the first standup meeting with the team
 - Decided first scum master
 - Committed the first MD file to GitHub
 - Completed the pull request module.
-# Week 5 - February 8th, 2023
+# Week 5 - February 8th 2023
 - Decided Scrum master to Harshadkumar Patel (Harsh Patel)
 - Discuss pain point and brain storming on Ideas
 - Created whatsaap group for all group memeber for the communication 
+# Week 6 - February 15th 2023
+- Decided Darshan Varma as a scrum master.
+- Darshan emailed usernames to Simon who needs to be included in the GitHub repo.
+- Decided whatsapp as our official channel of communication.
+- Decided Kanban as the tool for feature tracking.
+- Continuing the discussion of pain points.
