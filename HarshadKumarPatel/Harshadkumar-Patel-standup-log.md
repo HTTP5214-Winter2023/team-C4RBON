@@ -10,3 +10,8 @@
 - Attended a Meeting
 - listed the pain points
 - Selected teams
+# Week 4 - February, 2023
+- Attended the first standup meeting with the team
+- Decided first scum master
+- Committed the first MD file to GitHub
+- Completed the pull request module.
