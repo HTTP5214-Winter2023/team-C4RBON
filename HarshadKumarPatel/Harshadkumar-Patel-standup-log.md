@@ -18,6 +18,9 @@
 # Week 5 - February 8th 2023
 - Decided Scrum master to Harshadkumar Patel (Harsh Patel)
 - Discuss pain point and brain storming on Ideas
+- --delete unwanted emails
+- --unsubscribe email
+- --Atomatically subscribe newsletter
 - Created whatsaap group for all group memeber for the communication 
 # Week 6 - February 15th 2023
 - Decided Darshan Varma as a scrum master.
