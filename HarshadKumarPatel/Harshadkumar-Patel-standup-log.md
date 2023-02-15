@@ -6,3 +6,7 @@
 - Learned about the Scrum Master's role and responsibilities
 - Learned about git repository
 - Learned how git is worked 
+# Week 3 - January 25th 2023
+- Attended a Meeting
+- listed the pain points
+- Selected teams
