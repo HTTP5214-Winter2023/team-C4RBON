@@ -2,26 +2,25 @@
 
 ## WEEK 1 - 11th Jan,2023
 
-- agenda for the whole semester.
-- discussed mandatory submissions for the course
+- Noted the agenda for the entire semester.
+- Discussed submissions needs to be done throughout the semester.
 
 ## WEEK 2 - 18th Jan,2023
 
-- Introduction to Git.
-- Discussed the use of Kanban board and Trello
-- Demo run with Kanban, Trello and Git
+- Introduction to Git and created repos.
+- Discussed the use and demo run of Kanban board, Trello and Git.
 
 ## WEEK 3 - 25th Jan,2023
 
-- Learnt how to use Discord channel
-- Listed pain points
-- Formation of Team-C4RBON and held internal meeting to have a demo sprint session
+- Created Discord group channel.
+- Listed pain points.
+- Formation of Team-C4RBON and held internal meeting to have a demo sprint session.
 
 ## WEEK 4 - 1st Feb,2023
 
-- First standup meeting
-- Decided Muskan Aggarwal as first scrum master
-- Created individual folder structure in Team repository by scrum master
+- Arranged first standup meeting with the team.
+- Muskan Aggarwal as first scrum master.
+- Created individual folder structure in Team repository as scrum master
 - Completed Intoduction to Github module
 - Completed Pull requests module
 
