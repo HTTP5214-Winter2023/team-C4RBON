@@ -21,6 +21,10 @@
 - --delete unwanted emails
 - --unsubscribe email
 - --Atomatically subscribe newsletter
+-step involved in each pain point 
+- I have to unsubscribe to emails one by one manually. Is there a way for me to unsubscribe from multiple emails at once Every day.
+- I have to check the class schedule and room assignments. However, I want to develop a system that can provide me with automatic reminders for my class times and room   locations.
+- How can I automatically subscribe to the newsletter every day, and in the evening, it will automatically unsubscribe? 
 - Created whatsaap group for all group memeber for the communication 
 # Week 6 - February 15th 2023
 - Decided Darshan Varma as a scrum master.
