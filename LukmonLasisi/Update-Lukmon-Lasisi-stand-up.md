@@ -22,17 +22,19 @@ Jigar Rajeshkumar Mehta
 Muskan Aggarwal
 Nency Nileshkumar Modi
 Lukmon Lasisi Olakunmi
+Aadrit Chauhan
 
 Week 4 - February 1st 2023
 Attended the first standup meeting with the team
-Decided first scum master
+Decided first scrum master
 Committed the first MD file to GitHub
 Completed the pull request module.
+Completed the introduction to GitHub module.
 
 Week 5 - February 8th 2023
 Harshadkumar Patel (Harsh Patel) was Scrum master for this week
 Created whatsapp group for all group member for  ease of communication
-Discuss pain point and brain storming on Ideas
+Discussed pain point and brain storming on Ideas
 Examples of pain points that were discussed below
 --delete unwanted emails
 --unsubscribe email
