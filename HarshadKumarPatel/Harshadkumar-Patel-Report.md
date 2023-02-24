@@ -13,7 +13,7 @@
 - I attended the first stand-up meeting with my team, and team members decided to Muskaan Aggarwal as a scrum master. Muskaan Aggarwal created individual folder structures for the team as a scrum master. I completed my first Introduction to GitHub module and the Pull requests module. Also, I have created the first MD file in Folder.
 
 # Date: February 08, 2023
-Work:
+# Work:
 - This week, I participated in the second stand-up meeting with my development Team.
 - I presented my progress on various automation initiatives. I discussed a pain point and led a brainstorming session on potential solutions to common challenges faced by everyone nowadays, such as the tedious task of manually deleting unwanted emails, unsubscribing from individual emails, and automatically subscribing to newsletters.
 # Meeting:
@@ -24,7 +24,7 @@ Our team had the following meetings:
 - I attended the second stand-up meeting with the development team, where I was appointed as the Scrum Master by the team. During the meeting, we discussed potential pain points and explored various ideas. Although we havn't finalize the ideas, our brainstorming session enabled us to better understand how we can build and what we can achieve. Furthermore, we created a dedicated WhatsApp group for the team to facilitate communication and collaboration throughout the project. 
 
 # Date: February 15, 2023
-Work: 
+# Work: 
 -This week, I conducted further research on the ideas that were discussed during our last meeting. Following this, I began exploring the potential limitations and benefits associated with each idea, with a focus on determining how they could enhance human convenience and ease.
 - I join new  officel WhatsApp channel which was created by Scrum Master Darshan Varma.
 # Meeting 
@@ -35,7 +35,7 @@ Our team had the following meetings:
 -I attended the third stand-up meeting where the team decided to appoint Darshan Varma as the Scrum Master. We had discussions on ideas and held a brainstorming session, and feature tracking tool. I joined the WhatsApp channel, and I updated my GitHub MD file. 
 
 # Date: February 22, 2023
-Work:
+# Work:
 - This week, I created a Kanban board on Trello and added all the team members to a board, and here is the link : https://trello.com/b/w4WrJ0XW/team-c4rbon
 - This week, I conducted research on programming languages that could be used for automation tasks and had a discussion with the team. During the discussion, I suggested several programming languages that could be used, including Python, JavaScript, Ruby, and Java.
 # Meeting:
