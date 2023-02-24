@@ -38,3 +38,8 @@
 - Decided whatsapp as our official channel of communication.
 - Decided Kanban as the tool for feature tracking.
 - Continuing the discussion of pain points.
+
+## Week 7 - 22nd Feb,2023
+- Jigar Mehta was appointed as Scrum Master.
+- Personalised kanban board was created on platform Trello.
+- Discussed which language should be used during making of project.
