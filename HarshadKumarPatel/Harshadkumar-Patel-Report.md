@@ -21,7 +21,7 @@ Our team had the following meetings:
 - Meeting name: Second stand-up meeting Brainstoming ideas
 - Lead by Harshadkumar Patel(ME)
 - Documented at https://github.com/HTTP5214-Winter2023/team-C4RBON/blob/main/HarshadKumarPatel/Harshadkumar-Patel-standup-log.md#week-5---february-8th-2023
-- I attended the second stand-up meeting with the development team, where I was appointed as the Scrum Master by the team. During the meeting, we discussed potential pain points and explored various ideas. Although we havn't finalize the ideas, our brainstorming session enabled us to better understand how we can build and what we can achieve. Furthermore, we created a dedicated WhatsApp group for the team to facilitate communication and collaboration throughout the project. 
+- I attended the second stand-up meeting with the development team, where I was appointed as the Scrum Master by the team. During the meeting, we discussed potential pain points and explored various ideas. Although we haven't finalized the ideas, our brainstorming session enabled us to better understand how we can build and what we can achieve. Furthermore, we created a dedicated WhatsApp group for the team to facilitate communication and collaboration throughout the project. 
 
 # Date: February 15, 2023
 # Work: 
