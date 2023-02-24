@@ -25,7 +25,7 @@ Our team had the following meetings:
 
 # Date: February 15, 2023
 # Work: 
--This week, I conducted further research on the ideas that were discussed during our last meeting. Following this, I began exploring the potential limitations and benefits associated with each idea, with a focus on determining how they could enhance human convenience and ease.
+- This week, I conducted further research on the ideas that were discussed during our last meeting. Following this, I began exploring the potential limitations and benefits associated with each idea, with a focus on determining how they could enhance human convenience and ease.
 - I joined a new office WhatsApp channel, which was created by Scrum Master Darshan Varma.
 # Meeting 
 Our team had the following meetings:
