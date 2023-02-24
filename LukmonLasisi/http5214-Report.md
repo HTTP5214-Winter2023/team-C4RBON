@@ -9,7 +9,7 @@ Week4 - Work done
 Link to work done {}
 
 
-{Stand-up meeting}
+{Individual worklogs}
 -Lead by {Muskan Aggarwal}
 -Documented at {https://raw.githubusercontent.com/HTTP5214-Winter2023/team-C4RBON/main/MuskanAggarwal/Muskan-Aggarwal-standup-log.md}
 
@@ -24,7 +24,7 @@ Week5 - Work done
 
 Link to work done {}
 
-{Stand-up meeting}
+{Brainstorming ideas}
 -Lead by {HarshadKumar Patel}
 -Documented at {https://raw.githubusercontent.com/HTTP5214-Winter2023/team-C4RBON/main/HarshadKumarPatel/Harshadkumar-Patel-standup-log.md}
 
@@ -40,7 +40,7 @@ Week6 - Work done
 
 Link to work done {}
 
-{Stand-up meeting}
+{Feature tracking}
 -Lead by {Darshan Varma}
 -Documented at {https://raw.githubusercontent.com/HTTP5214-Winter2023/team-C4RBON/main/DarshanVarma/Darshan-Varma-Standup-log.md}
 
