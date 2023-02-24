@@ -1,7 +1,7 @@
 # Date: February 01, 2023
 # Work:
 - This week, I attended the first stand-up meeting with team members.
-- I started to learn about github repository.
+- I began exploring GitHub repositories as a means of organizing and collaborating on our work. Through study resources and tutorials, I gained a better understanding of how to create, clone, and manage GitHub repositories, as well as how to collaborate effectively with other team members. 
 - Committed the first MD file to the GitHub repository.
 - Completed the pull request module as well.
 - Here is the link to that work https://github.com/HTTP5214-Winter2023/team-C4RBON/blob/main/HarshadKumarPatel/Harshadkumar-Patel-standup-log.md#week-4---february-1st-2023
