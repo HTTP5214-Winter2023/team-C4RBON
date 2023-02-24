@@ -1,3 +1,4 @@
+# Individual Report
 # Date: February 01, 2023
 # Work:
 - This week, I attended the first stand-up meeting with team members.
