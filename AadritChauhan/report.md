@@ -7,7 +7,7 @@
 - Had my first experience with GIT and GIT-hub and also did an exercise.
 - We also created a git repository along with individual folders in the repository. 
 
-## MMeeting information:
+## Meeting information:
 Meeting information:
 - Name- Individual worklog
 - Scrum Master- Muskan Agarwal.
