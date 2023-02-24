@@ -26,13 +26,13 @@ Our team had the following meetings:
 # Date: February 15, 2023
 # Work: 
 -This week, I conducted further research on the ideas that were discussed during our last meeting. Following this, I began exploring the potential limitations and benefits associated with each idea, with a focus on determining how they could enhance human convenience and ease.
-- I join new  officel WhatsApp channel which was created by Scrum Master Darshan Varma.
+- I joined a new office WhatsApp channel, which was created by Scrum Master Darshan Varma.
 # Meeting 
 Our team had the following meetings:
 - Meeting name: Third Stand-up meeting Feature Tracking
 - Lead by: Darshan Varma
 - Documented at  https://github.com/HTTP5214-Winter2023/team-C4RBON/blob/main/DarshanVarma/Darshan-Varma-Standup-log.md#week-6---15th-feb2023 
--I attended the third stand-up meeting where the team decided to appoint Darshan Varma as the Scrum Master. We had discussions on ideas and held a brainstorming session, and feature tracking tool. I joined the WhatsApp channel, and I updated my GitHub MD file. 
+- I attended the third stand-up meeting where the team decided to appoint Darshan Varma as the Scrum Master. We had discussions on ideas and held a brainstorming session, and feature tracking tool. I joined the WhatsApp channel, and I updated my GitHub MD file. 
 
 # Date: February 22, 2023
 # Work:
