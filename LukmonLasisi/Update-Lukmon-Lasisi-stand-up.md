@@ -52,3 +52,9 @@ Darshan emailed usernames to Simon who needs to be included in the GitHub repo.
 We made decision on few new things such as the decision to have whatsapp as our official channel of communication.
 And Kanban as the tool use for feature tracking.
 Continuing the discussion of pain points.
+
+Week 7 - February 22nd, 2023
+Jigar Mehta was appointed as Scrum Master
+Created kanban board on the Trello platform and added all team members.
+During our discussion on the best programming language for automation tasks, everyone shared their opinion.
+I suggested JavaScript with NodeJS
