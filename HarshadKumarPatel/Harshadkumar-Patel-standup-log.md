@@ -37,4 +37,9 @@
 - Created kanban board on the Trello platform and added all the team member.
 - During our discussion on the best programming language for automation tasks, everyone shared their opinion.
 - I suggested Python, JavaScript, Ruby and Java
-
+# Week 7 February 22nd, 2023
+- Jigar Mehta has been assigned the role of Scrum Master, indicating a shift towards agile methodology in the team's workflow.
+- The team has adopted the use of the Trello platform for project management and has set up a kanban board.
+- The team has engaged in a discussion regarding the best programming language for automation tasks, a focus on improving the efficiency and automation of the workflow.
+- Among the suggested programming languages, Python, JavaScript, Ruby, and Java were recommended by members.
+- For me the node Was the easiest to work with so i suggested node.
