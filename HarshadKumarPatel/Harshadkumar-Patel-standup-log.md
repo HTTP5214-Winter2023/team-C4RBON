@@ -32,11 +32,6 @@
 - Decided whatsapp as our official channel of communication.
 - Decided Kanban as the tool for feature tracking.
 - Continuing the discussion of pain points.
-# Week 7 February 22nd 2023
-- Jigar Mehta was appointed as Scrum Master 
-- Created kanban board on the Trello platform and added all the team member.
-- During our discussion on the best programming language for automation tasks, everyone shared their opinion.
-- I suggested Python, JavaScript, Ruby and Java
 # Week 7 February 22nd, 2023
 - Jigar Mehta has been assigned the role of Scrum Master, indicating a shift towards agile methodology in the team's workflow.
 - The team has adopted the use of the Trello platform for project management and has set up a kanban board.
