@@ -58,3 +58,16 @@ Jigar Mehta was appointed as Scrum Master
 Created kanban board on the Trello platform and added all team members.
 During our discussion on the best programming language for automation tasks, everyone shared their opinion.
 I suggested JavaScript with NodeJS
+
+Week 9 - March 8th, 2023
+Lukmon Lasisi was appointed as Scrum Master
+Decided on the group automation project (Randomize grouping Web Application)
+Had a discussion with the project owner (Simon)
+Project tasks has been discussed and concluded
+#Restrospective Meeting
+What went well: 
+We finalized the the project idea!'
+Inspite of the large team of 8, team coordination went well
+
+What did not go well:
+Our team members had expertise in different areas of development, so could not finalize the responsilities.
