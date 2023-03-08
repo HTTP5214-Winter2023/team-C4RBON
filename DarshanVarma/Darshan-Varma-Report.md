@@ -51,6 +51,6 @@ Our team had the following meetings:
 
 Our team had the following meetings:
 - Held our 4th standup meeting.
-- Scrum master :  Jigar Mehta.
+- Scrum master : Jigar Mehta.
 - A personalized kanban board was created on the platform Trello.
 - Discussed with the team with which coding language should we proceed ahead for the project but could not fix anything yet.
