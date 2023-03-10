@@ -38,3 +38,12 @@
 - The team has engaged in a discussion regarding the best programming language for automation tasks, a focus on improving the efficiency and automation of the workflow.
 - Among the suggested programming languages, Python, JavaScript, Ruby, and Java were recommended by members.
 - For me the node Was the easiest to work with so i suggested node.
+
+# Week 9 Mar 08, 2023
+- The decision was made by the team that Lukmon Lasisi would be the Scrum Master.
+- We have decided to work on a group project for a Randomized Grouping Web Application. This application will automatically organize group structures after entering details. We had a discussion with the project owner, Simon.
+- The team members discussed the project tasks and concluded
+ # Retrospective Meeting:
+ - What went well: The project idea was finalized!
+ - Despite the large team of 8, team coordination went well.
+ - What did not go well: Our team members had expertise in different areas of development, so we could not finalize the responsibilities.
