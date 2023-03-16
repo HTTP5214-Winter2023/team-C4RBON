@@ -43,3 +43,22 @@
 - Our fourth scrum master was decided.
 - Kanban board was created on trello.
 - Discussion about preferred language/framework was held
+
+## Week 9 - 8th Mar,2023
+
+- Our fifth scrum master was decided.
+- Our group project was decided as "Randomized Grouping Web Application".
+- This project is supposed to randomly group segments after providing input.
+- Team members had a discussion about indicidual resposibilities.
+
+## Restrospective meeting
+- What went well: The project idea was finalised
+- Despite being a big team, our coordination went well.
+- What did not go well: Responsibilities couldn’t be finalised because we all wanted to work in different areas.
+
+## Week 10 - 15th Mar,2023
+- Aadrit Chauhan was decided as the scrum master.
+- Project tasks were listed clearly.
+- Every team member was assigned tasks.
+- Work on backend was started.
+- Work on wireframes was started.
