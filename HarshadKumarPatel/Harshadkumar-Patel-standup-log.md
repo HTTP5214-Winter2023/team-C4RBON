@@ -53,3 +53,8 @@
  - What went well: The project idea was finalized!
  - Despite the large team of 8, team coordination went well.
  - What did not go well: Our team members had expertise in different areas of development, so we could not finalize the responsibilities.
+# Week 10 Mar 15, 2023
+- The decision was made by the team that Aadrit Chauhan was chosen as the scrum master. 
+- Project tasks were carefully documented to ensure clear understanding of the scope and requirements.
+- Each team member was assigned tasks based on their strengths and expertise for collaboration and efficiency.
+- Front-end and Backend work was started.
