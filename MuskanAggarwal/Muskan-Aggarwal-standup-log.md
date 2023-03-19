@@ -39,11 +39,12 @@
 - Decided Kanban as the tool for feature tracking.
 - Continuing the discussion of pain points.
 
-## Week 7 - 22nd Feb,2023
+## Week 7 - 22nd Feb, 2023
+
 - Kanban board was created on trello.
 - Held discussion about languages and frameworks
 
-## Week 9 - 8th Mar,2023
+## Week 9 - 8th Mar, 2023
 
 - Jigar mehta as our fifth scrum master was decided.
 - We decided our group automation project as "Randomized Grouping Web Application".
@@ -51,10 +52,12 @@
 - Team members had a discussion about individual responsibilities.
 
 ## Restrospective meeting
+
 - What went well: The project idea was finalised and tasks were segregated.
 - What did not go well: Responsibilities couldn’t be finalised because we all have different special areas to work.
 
-## Week 10 - 15th Mar,2023
+## Week 10 - 15th Mar, 2023
+
 - Aadrit Chauhan was decided as the scrum master.
 - Project tasks were listed clearly.
 - Every team member was assigned tasks.

@@ -12,3 +12,15 @@
 - We had our first standup meeting where we updated each other on our progress, discussed any issues and planned our next steps.
 - We decided to appoint Muskan Aggarwal as the first scrum master to lead the team. As the scrum master, she created individual folder structures in the team repository to help us organize our work.
 - We completed the Introduction to Github module, which provided an overview of the popular web-based platform, and also completed the Pull Requests module, which taught us how to contribute to a project in Github by proposing changes.
+# Week 5 - 8th Feb, 2023
+- Harshadkumar Patel was appointed as Scrum Master.
+- Brainstormed on some powerful ideas.
+- Some ideas like email verification were discussed.
+# Week 6 - 15th Feb, 2023
+- Darshan Varma was appointed as Scrum Master.
+- Some remaining teammates were added to GitHub.
+- Finalised Trello platform for keeping track of things.
+# Week 7 - 22nd Feb, 2023
+- Jigar Mehta(me) was appointed as Scrum Master.
+- Personalised kanban board was created on platform Trello.
+- Discussed which language should be used during making of project, while discussion, I suggested Python as it has vast libraries.

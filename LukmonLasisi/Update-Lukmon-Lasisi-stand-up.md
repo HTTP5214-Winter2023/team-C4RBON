@@ -22,17 +22,19 @@ Jigar Rajeshkumar Mehta
 Muskan Aggarwal
 Nency Nileshkumar Modi
 Lukmon Lasisi Olakunmi
+Aadrit Chauhan
 
 Week 4 - February 1st 2023
 Attended the first standup meeting with the team
-Decided first scum master
+Decided first scrum master
 Committed the first MD file to GitHub
 Completed the pull request module.
+Completed the introduction to GitHub module.
 
 Week 5 - February 8th 2023
 Harshadkumar Patel (Harsh Patel) was Scrum master for this week
 Created whatsapp group for all group member for  ease of communication
-Discuss pain point and brain storming on Ideas
+Discussed pain point and brain storming on Ideas
 Examples of pain points that were discussed below
 --delete unwanted emails
 --unsubscribe email
@@ -50,3 +52,28 @@ Darshan emailed usernames to Simon who needs to be included in the GitHub repo.
 We made decision on few new things such as the decision to have whatsapp as our official channel of communication.
 And Kanban as the tool use for feature tracking.
 Continuing the discussion of pain points.
+
+Week 7 - February 22nd, 2023
+Jigar Mehta was appointed as Scrum Master
+Created kanban board on the Trello platform and added all team members.
+During our discussion on the best programming language for automation tasks, everyone shared their opinion.
+I suggested JavaScript with NodeJS
+
+Week 9 - March 8th, 2023
+Lukmon Lasisi was appointed as Scrum Master
+Decided on the group automation project (Randomize grouping Web Application)
+Had a discussion with the project owner (Simon)
+Project tasks has been discussed and concluded
+#Restrospective Meeting
+What went well: 
+We finalized the the project idea!'
+Inspite of the large team of 8, team coordination went well
+
+What did not go well:
+Our team members had expertise in different areas of development, so could not finalize the responsilities.
+
+Week 10 March 15, 2023
+- The decision was made by the team that Aadrit Chauhan be chosen as the scrum master for the week. 
+- Project tasks was carefully documented.
+- Each team member now has tasks assigned to them.
+- Front-end and Backend work was kick-started.
