@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/style.css">
+  <title>Auto Group Arragmenet</title>
+</head>
+
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#splitGroup">Split Group</a></li>
+        <li><a href="#aboutsection">About</a></li>
+        <li><a href="#contactUs">Contact Us</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <section id="home">
+      <div class="welcome">
+        <h1>Welcome to Split Group</h1>
+      </div>
+    </section>
+    <section id="aboutsection">
+      <h2>About</h2>
+      <div class="containerabout">
+        <img src="image/GroupofTeam.jpg" alt="group of team photo"><!--imae source : Photo by <a href="https://unsplash.com/@benshares?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ben Duchac</a> on <a href="https://unsplash.com/photos/96DW4Pow3qI?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+        -->
+        <p>The Randomized Grouping Web Application is designed to automatically organize group structures after entering
+            details. The system utilizes a randomized algorithm to divide individuals into groups based on user-specified
+            criteria. This application can be used in a variety of settings, including academic environments, workplace
+            settings, and social events.
+        </p>
+      </div>
+    </section>
+    <h2>Split Group</h2>
+    <section id="splitGroup">
+      <div class="detail">
+        <form action="" method="post">
+          <label for="name">Student Name:</label>
+          <input type="text" id="name" name="name" required>
+
+          <label for="number">Student Number:</label>
+          <input type="text" id="number" name="number" required>
+
+          <label for="email">Email ID:</label>
+          <input type="email" id="email" name="email" required>
+     
+          <button type="button" id="add-student">+</button>
+          <label for="number">Number of student per group</label>
+          <input type="text" id="number" name="number">
+
+          <input type="submit" value="submit" >
+        </form>
+      </div>
+      <div class="uploadfile">
+        <form action="upload.php" method="post" enctype="multipart/form-data">
+          <label for="excel-file">Upload Excel File:</label>
+          <input type="file" id="excel-file" name="excel-file" accept=".xls,.xlsx">
+          <input type="submit" value="Upload">
+        </form>
+      </div>
+    </section>
+    <h2>Contact Us</h2>
+    <section id="contactUs">
+      <form action="" method="post">
+        <label for="name">Full Name:</label>
+        <input type="text" id="name" name="name" required>
+
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required>
+
+        <label for="message">Message:</label>
+		    <textarea id="message" name="message" rows="5" cols="150"></textarea>
+        
+        <input type="submit" value="submit">
+      </form>
+    </section>
+  </main>
+  <footer>
+    <p>Copyright &copy; 2023 Carbon Team</p>
+  </footer>
+</body>
+
+</html>

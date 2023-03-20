@@ -1,0 +1,138 @@
+header{
+  border-bottom: 1px solid #18171C;
+  background-color: #CFD3CD;
+  padding: 10px;
+}
+nav ul{
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+nav ul li{
+  display: inline-block;
+  margin-right: 25px;
+}
+nav ul li:last-child{
+  margin-right: 0;
+}
+nav ul li a{
+  display: block;
+  color:black;
+  text-decoration: none;
+  padding: 12px;
+  border-radius: 6px;
+}
+nav ul li a:hover{
+  background-color: #18171C;
+  color: white;
+}
+#home{
+  background-image: linear-gradient(to right, rgba(15, 21, 26, 0.70), rgba(15, 21, 26, 0.70), rgba(15, 21, 26, 0.70), rgba(15, 21, 26, 0.70)),url(../image/photo.png);
+  height: 500px;
+  padding: 1px;
+  background-size: cover;
+  object-fit: cover;
+  width: 99.99%;
+  background-position: center;
+}
+.welcome h1{
+  text-align: center;
+  margin: 225px 50px 50px 50px;
+  color: azure;
+}
+h2{
+  text-align: center;
+}
+#splitGroup{
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+.detail{
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+.containerabout {
+  display: flex;
+  align-items: center;
+}
+img{
+  width: 450px;
+}
+p {
+  padding-left: 20px;
+}
+.groupPhoto img {
+  width:450px;
+  height: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+section#aboutsection {
+  margin: 75px;
+  padding: 50px;
+}
+
+section#splitGroup{
+  margin: 75px;
+  padding: 50px;
+}
+#splitGroup {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.detail, .uploadfile {
+  flex-basis: 45%;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+label {
+  margin-bottom: 0.5rem;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="file"] {
+  padding: 0.5rem;
+  margin-bottom: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  font-size: 1rem;
+  width: 100%;
+}
+
+input[type="submit"],
+button {
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 3px;
+  background-color: #0077cc;
+  color: #fff;
+  font-size: 1rem;
+  cursor: pointer;
+  margin-top: 1rem;
+}
+input[type="submit"]:hover,
+button:hover {
+  background-color: #005fa3;
+}
+
+section#contactUs{
+  margin: 75px;
+  padding: 50px;
+}
+footer{
+  border-bottom: 1px solid #18171C;
+  background-color: #CFD3CD;
+  padding: 10px;
+  border-top: 1px solid #18171C;
+  text-align: center;
+}
+
+
