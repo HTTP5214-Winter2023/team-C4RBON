@@ -6,6 +6,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="css/style.css">
+  <script src="js/index.js"></script>
+  <script src="js/splitGroups.js"></script>
   <title>Auto Group Arragmenet</title>
 </head>
 
@@ -41,22 +43,28 @@
     <h2>Split Group</h2>
     <section id="splitGroup">
       <div class="detail">
-        <form action="" method="post">
+        <form action="#" method="post" id="submitForm">
           <label for="name">Student Name:</label>
-          <input type="text" id="name" name="name" required>
+          <input type="text" id="name" name="name" >
 
           <label for="number">Student Number:</label>
-          <input type="text" id="number" name="number" required>
+          <input type="text" id="number" name="number" >
 
           <label for="email">Email ID:</label>
-          <input type="email" id="email" name="email" required>
+          <input type="email" id="email" name="email" >
      
           <button type="button" id="add-student">+</button>
-          <label for="number">Number of student per group</label>
-          <input type="text" id="number" name="number">
+          <p id="students-list">
+            <!-- list of students added -->
+          </p>
+          <label for="groupSize">Number of student per group</label>
+          <input type="number" id="groupSize" name="groupSize">
 
           <input type="submit" value="submit" >
         </form>
+        <p id="groupList">
+          <!-- groups divided here -->
+        </p>
       </div>
       <div class="uploadfile">
         <form action="upload.php" method="post" enctype="multipart/form-data">
