@@ -62,3 +62,10 @@
 - Project tasks were listed clearly.
 - Every team member was assigned tasks.
 - I started working on the DB structure and backend work to store arrays into database.
+
+## Week 11 - 22th Mar, 2023
+
+- Azmat Pathan was decided as the scrum master.
+- Integrated all team members code and got our MVP working.
+- User tested our MVP from 5 students in the class.
+- Documented user testing process.
