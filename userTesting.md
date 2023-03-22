@@ -1,16 +1,16 @@
-Scenarios:
+## Scenarios:
 
-1) Provided Local Link for the app.
-2) User entered the student details such as Student Name, Student ID, Student Email
-3) User will hit "Add" button to add those names
-4) User have to provide the number of members per group
-5) User click on "Submit" button to submit
-6) The final segregated groups will be displayed on the screen.
+- Provided Local Link for the app.
+- User entered the student details such as Student Name, Student ID, Student Email
+- User will hit "Add" button to add those names
+- User have to provide the number of members per group
+- User click on "Submit" button to submit
+- The final segregated groups will be displayed on the screen.
 
 
-Participants:
+## Participants:
 
-Nikhil, Gajendra, Wenhao, Beatrice, Udip
+## Nikhil, Gajendra, Wenhao, Beatrice, Udip
 
 
 Instructions:
