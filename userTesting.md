@@ -13,19 +13,19 @@
 ## Nikhil, Gajendra, Wenhao, Beatrice, Udip
 
 
-Instructions:
+## Instructions:
 
-1) Explained the project as per the functionality.
-2) Users went through the app and navigated to split groups.
-3) User added the names of student and their data.
-4) We showed the data being loaded in Database.
-5) Also User added the number of groups the user wants.
-6) User were given the group of students as per the groups required.
+- Explained the project as per the functionality.
+- Users went through the app and navigated to split groups.
+- User added the names of student and their data.
+- We showed the data being loaded in Database.
+- Also User added the number of groups the user wants.
+- User were given the group of students as per the groups required.
 
 
-Likes / Dislikes / Recommendations: 
+## Likes / Dislikes / Recommendations: 
 
-1) Instead of "Submit" button add "Generate" button.
-2) Result should be displayed in good format.
-3) Try to add Excel import for importing large number of students.
-4) Displaying the number of students entered.
+- Instead of "Submit" button add "Generate" button.
+- Result should be displayed in good format.
+- Try to add Excel import for importing large number of students.
+- Displaying the number of students entered.
