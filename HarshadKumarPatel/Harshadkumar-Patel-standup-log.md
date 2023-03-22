@@ -58,3 +58,8 @@
 - Project tasks were carefully documented to ensure clear understanding of the scope and requirements.
 - Each team member was assigned tasks based on their strengths and expertise for collaboration and efficiency.
 - Front-end and Backend work was started.
+# Week 11 Mar 22, 2023
+- The decision was made by the team that Azmat Pathan was chosen as the scrum master.
+- Integrated all team members code and got our MVP working.
+- User tested our MVP from 5 students in the class.
+- Scrum master documented user testing process.
