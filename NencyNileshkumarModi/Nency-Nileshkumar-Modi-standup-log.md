@@ -32,3 +32,30 @@ Week 2 - January 18th, 2023
 -The team has decided to use WhatsApp as their official communication channel, which may facilitate more efficient and streamlined communication among team members.
 - By selecting Kanban as a tool for feature tracking, the team has chosen a popular and effective method for managing project backlogs, prioritizing tasks, and visualizing progress.
 - Continuing the discussion of pain points suggests that the team is taking a proactive approach to problem-solving and is committed to finding effective solutions to the challenges they face during the project
+# Week 7 - February 22nd, 2023
+- Jigar Mehta has taken on the responsibility of being the Scrum Master, which suggests that the team is transitioning towards an agile approach to their workflow. 
+- The team has implemented the use of Trello for project management and has created a kanban board. 
+- They have also had a conversation about which programming language would be best for automating tasks, with a focus on increasing workflow efficiency through automation. 
+- Some team members suggested Python, JavaScript, Ruby, and Java as potential options.
+# Week 9 - March 08th, 2023
+- The team has reached a consensus that Lukmon Lasisi will assume the role of Scrum Master. 
+- They have also agreed to collaborate on a Randomized Grouping Web Application that will automate the process of organizing group structures based on inputted details. 
+- During a meeting with the project owner, Simon, the team members discussed the tasks involved in the project and eventually reached a conclusion.
+
+# Retrospective Meeting:
+- What went well: The project idea was finalised and tasks were segregated.
+- What did not go well: Responsibilities couldn’t be finalised because we all have different special areas to work.
+
+# Week 10 - March 15th, 2023
+- It was determined that Aadrit Chauhan would take on the role of Scrum Master. 
+- The project tasks were outlined in a clear and concise manner, and each team member was assigned specific tasks to work on. As for myself, I began working on developing the main function that would randomly divide students into groups.
+
+# Week 11 - March 22nd, 2023
+- The team has appointed Azmat Pathan as the Scrum Master. 
+- They successfully merged all team members' code and were able to get their Minimum Viable Product (MVP) up and running. A group of 5 students from the class was selected to test the MVP, and the team documented the entire user testing process.
+
+# Week 12 - March 29nd, 2023
+- Me(Nency) was appointed as Scrum Master.
+- Local written code was pushed to repo, with individual work.
+- Project testing methodologies were discussed.
+- Distributed testing work.
