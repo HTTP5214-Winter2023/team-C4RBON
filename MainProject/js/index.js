@@ -18,7 +18,7 @@ function pageloaded() {
         }
 
         arrayStudents.push(studentData);
-        // console.log(arrayStudents);
+        //console.log(arrayStudents);
         var namesArr = [];
         for(var i=0; i<arrayStudents.length; i++) {
             namesArr.push(arrayStudents[i]["name"]);
@@ -31,9 +31,10 @@ function pageloaded() {
     }
 
     document.getElementById("submitForm").onsubmit = submitForm;
+    var splitSize = document.getElementById("groupSize").value;
 
     function submitForm() {
-        var groupsArr = studentSplitter(arrayStudents, document.getElementById("groupSize").value);
+        var groupsArr = studentSplitter(arrayStudents, splitSize);
         console.log(groupsArr);
 
         var groupsNamesArr = [];
