@@ -72,8 +72,19 @@ Inspite of the large team of 8, team coordination went well
 What did not go well:
 Our team members had expertise in different areas of development, so could not finalize the responsilities.
 
-Week 10 March 15, 2023
+Week 10 - March 15, 2023
 - The decision was made by the team that Aadrit Chauhan be chosen as the scrum master for the week. 
 - Project tasks was carefully documented.
 - Each team member now has tasks assigned to them.
 - Front-end and Backend work was kick-started.
+
+Week 11 - March 22, 2023
+- The team has appointed Azmat Pathan as the Scrum Master. 
+- We successfully merged all team members' code and were able to get the (MVP) up and running. 
+- A group of 5 students from the class were selected to test the MVP, and documented the entire user testing process with feedbacks.
+
+Week 11 - March 29, 2023
+- Nency was appointed as Scrum Master.
+- Local written code was pushed to repo, with individual work.
+- Project testing methodologies were discussed.
+- Distributed testing work.
