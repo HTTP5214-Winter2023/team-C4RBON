@@ -63,9 +63,9 @@
 - Work on backend was started.
 - Work on wireframes was started.
 
-## Week 11 - 22nmd March, 2023
+## Week 11 - 22nd March, 2023
 - Azmat Pathan was decided as ours  scrum master.
 - Integrated all the code recieved from the members and integrated it.
 - Got our MVP user tested from 5 members of our class.
 - Documented the user testing process.
-- 
+
