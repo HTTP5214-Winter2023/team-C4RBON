@@ -1,0 +1,77 @@
+doctype html
+head
+  meta(charset='UTF-8')
+  meta(http-equiv='X-UA-Compatible' content='IE=edge')
+  meta(name='viewport' content='width=device-width, initial-scale=1.0')
+  link(rel='stylesheet' href='/style/style.css')
+  script(src='js/index.js')
+  script(src='../index.js')
+  script(src='js/splitGroups.js')
+  title Auto Group Arragmenet
+header
+  nav
+    ul
+      li
+        a(href='#home') Home
+      li
+        a(href='#splitGroup') Split Group
+      li
+        a(href='#aboutsection') About
+      li
+        a(href='#contactUs') Contact Us
+main
+  section#home
+    .welcome
+      h1 Welcome to Split Group
+  section#aboutsection
+    h2 About
+    .containerabout
+      img(src='image/GroupofTeam.jpg' alt='group of team photo')
+      //
+        imae source : Photo by <a href="https://unsplash.com/@benshares?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ben Duchac</a> on <a href="https://unsplash.com/photos/96DW4Pow3qI?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+      p
+        | The Randomized Grouping Web Application is designed to automatically organize group structures after
+        | entering
+        | details. The system utilizes a randomized algorithm to divide individuals into groups based on
+        | user-specified
+        | criteria. This application can be used in a variety of settings, including academic environments,
+        | workplace
+        | settings, and social events.
+  h2 Split Group
+  section#splitGroup
+    .detail
+      form#submitForm(action='/submit' method='POST')
+        label(for='name') Student Name:
+        input#name(type='text' name='name')
+        label(for='number') Student Number:
+        input#number(type='text' name='number')
+        label(for='email') Email ID:
+        input#email(type='email' name='email')
+        button#add-student(type='button') +
+        p#students-list
+          // list of students added
+        label(for='groupSize') Number of student per group
+        input#groupSize(type='number' name='groupSize')
+        input(type='submit' value='submit')
+      p#groupList
+        // groups divided here
+    .uploadfile
+      form(action='upload.php' method='post' enctype='multipart/form-data')
+        label(for='excel-file') Upload Excel File:
+        input#excel-file(type='file' name='excel-file' accept='.xls,.xlsx')
+        input(type='submit' value='Upload')
+    .test 
+        each data in student
+            p #{data.name}
+  h2 Contact Us
+  section#contactUs
+    form(action='' method='post')
+      label(for='name') Full Name:
+      input#name(type='text' name='name' required='')
+      label(for='email') Email:
+      input#email(type='email' name='email' required='')
+      label(for='message') Message:
+      textarea#message(name='message' rows='5' cols='150')
+      input(type='submit' value='submit')
+footer
+  p Copyright &copy; 2023 Carbon Team
