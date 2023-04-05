@@ -31,11 +31,11 @@ function pageloaded() {
     }
 
     document.getElementById("submitForm").onsubmit = submitForm;
-    var splitSize = document.getElementById("groupSize").value;
+    //var splitSize = document.getElementById("groupSize").value;
 
     function submitForm() {
-        var groupsArr = studentSplitter(arrayStudents, splitSize);
-        console.log(groupsArr);
+        var groupsArr = studentSplitter(arrayStudents, document.getElementById("groupSize").value);
+        //console.log(groupsArr);
 
         var groupsNamesArr = [];
         for(var i=0; i<groupsArr.length; i++) {
@@ -46,6 +46,10 @@ function pageloaded() {
             groupsNamesArr.push("( " + namesArr.join(", ") + " )");
         }
         document.getElementById("groupList").innerHTML = "Groups List: " + groupsNamesArr.join(", ");
+
+        var table = document.getElementById("table");  // set this to your table
+
+
         return false;
     }
 
