@@ -45,22 +45,22 @@
       <div class="detail">
         <form action="#" method="post" id="submitForm">
           <label for="name">Student Name:</label>
-          <input type="text" id="name" name="name" >
+          <input type="text" id="name" name="name" placeholder="Harsh Patel ">
 
           <label for="number">Student Number:</label>
-          <input type="text" id="number" name="number" >
+          <input type="text" id="number" name="number" placeholder="42562685" >
 
           <label for="email">Email ID:</label>
-          <input type="email" id="email" name="email" >
+          <input type="email" id="email" name="email" placeholder="email@gmail.com">
      
-          <button type="button" id="add-student">+</button>
+          <button type="button" id="add-student"> + Add More</button>
           <p id="students-list">
             <!-- list of students added -->
           </p>
           <label for="groupSize">Number of student per group</label>
-          <input type="number" id="groupSize" name="groupSize">
+          <input type="number" id="groupSize" name="groupSize" placeholder="4 or 5">
 
-          <input type="submit" value="submit" >
+          <input type="submit" value="Split group" >
         </form>
         <p id="groupList">
           <!-- groups divided here -->
@@ -78,13 +78,13 @@
     <section id="contactUs">
       <form action="" method="post">
         <label for="name">Full Name:</label>
-        <input type="text" id="name" name="name" required>
+        <input type="text" id="name" name="name" placeholder="John" required>
 
         <label for="email">Email:</label>
-        <input type="email" id="email" name="email" required>
+        <input type="email" id="email" name="email" placeholder="email@gmail.com" required>
 
         <label for="message">Message:</label>
-		    <textarea id="message" name="message" rows="5" cols="150"></textarea>
+		    <textarea id="message" name="message" rows="5" cols="150" placeholder="Write your message here"></textarea>
         
         <input type="submit" value="submit">
       </form>
