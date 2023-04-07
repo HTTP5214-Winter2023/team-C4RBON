@@ -70,7 +70,7 @@
 - User tested our MVP from 5 students in the class.
 - Documented user testing process.
 
-# Week 12 - 29th Mar, 2023
+## Week 12 - 29th Mar, 2023
 - Nency was designated as the Scrum Master for the project. 
 - Each team member's individual work was pushed to the repository, and we discussed the testing methodologies for the project. 
 - We then allocated the testing work among the team members.
