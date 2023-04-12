@@ -63,3 +63,7 @@
 - Integrated all team members code and got our MVP working.
 - User tested our MVP from 5 students in the class.
 - Scrum master documented user testing process.
+# Week 12 Mar 29, 2023
+- The decision was made by the team that Nency was chosen as the scrum master.
+- Code was updated as per the user feedback into MainProject folder.
+- Testing work and plan implemented. 
