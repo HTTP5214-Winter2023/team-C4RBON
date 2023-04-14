@@ -48,7 +48,7 @@
 
 
 ## Week 9 - 8th Mar, 2023
-- Jigar mehta as our fifth scrum master was decided.
+- Lukmon as our fifth scrum master was decided.
 - We decided our group automation project as "Randomized Grouping Web Application".
 - This project will automatically split students in random groups.
 - Team members had a discussion about individual responsibilities.
