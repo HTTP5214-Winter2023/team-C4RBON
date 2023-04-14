@@ -69,3 +69,7 @@
 - Got our MVP user tested from 5 members of our class.
 - Documented the user testing process.
 
+## Week 12 - 29th Mar, 2023
+- Nency was designated as the Scrum Master for the project. 
+- All the work from members was pushed to the gitHub.
+- Worked on feedback recieved during user testing.
