@@ -1,5 +1,5 @@
 ######################
-1st Feb, 2023
+#1st Feb, 2023
 
 Work
 •	First standup meeting
