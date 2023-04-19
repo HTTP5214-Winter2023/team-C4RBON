@@ -7,7 +7,7 @@
 - Completed the pull request module as well.
 - Here is the link to that work https://github.com/HTTP5214-Winter2023/team-C4RBON/blob/main/HarshadKumarPatel/Harshadkumar-Patel-standup-log.md#week-4---february-1st-2023
 ## Meeting: 
-## Our team had the following meetings:
+Our team had the following meetings:
 - Meeting name: First stand-up meeting Individual Worklog
 - Lead by Muskaan Aggarwal
 - Documented at https://github.com/HTTP5214-Winter2023/team-C4RBON/blob/main/MuskanAggarwal/Muskan-Aggarwal-standup-log.md#week-4---1st-feb2023 
@@ -49,7 +49,7 @@ Our team had the following meetings:
 ## Work:
 - This week, I contributed to finalizing the ideas and importance of the project tasks.
 ## Meeting:
-- Our team had the following meetings: 
+Our team had the following meetings: 
 - Meeting Name: Finalize idea and project task.
 - Lead by Lukmon Lasisi
 - Documented: https://github.com/HTTP5214-Winter2023/team-C4RBON/blob/main/LukmonLasisi/Update-Lukmon-Lasisi-stand-up.md
@@ -58,7 +58,7 @@ Our team had the following meetings:
 ## Work
 - This week, I took on the task of developing the front-end portion of the project. I have started designing the layout using appropriate tools and frameworks.
 ## Meeting 
-- Our team had the following meetings:
+Our team had the following meetings:
 - Meeting Name: Divides Project task and requirements
 - Lead by Aadrit Chauhan 
 - Documented: https://github.com/HTTP5214-Winter2023/team-C4RBON/blob/main/AadritChauhan/AadritChauhan-standup-log.md#week-10---15th-mar2023
@@ -76,8 +76,8 @@ Our team had the following meetings:
 ## Work
 - I have updated design as per the user feedback on front-end layout
 - I have tested my front-end by my self.
-
 ## Meeting
+Our team had the following meetings:
 - Meeting Name: Upate design and fix bugs.
 - Lead by Nency Modi
 - Documented: https://github.com/HTTP5214-Winter2023/team-C4RBON/blob/main/NencyNileshkumarModi/Nency-Nileshkumar-Modi-standup-log.md
