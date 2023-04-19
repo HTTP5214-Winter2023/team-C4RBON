@@ -56,6 +56,6 @@ Week 2 - January 18th, 2023
 
 # Week 12 - March 29nd, 2023
 - Me(Nency) was appointed as Scrum Master.
-- Local written code was pushed to repo, with individual work.
 - Project testing methodologies were discussed.
-- Distributed testing work.
+- As per the feed back given by the testers we decided to modifie he code little bit to make it more user friendly.
+- We Distributed testing work among the team members.
