@@ -67,6 +67,7 @@ Our team had the following meetings:
 ## Work
 - I design front-end uing HTML and CSS 
 ##  Meeting
+Our team had the following meetings:
 - Meeting Name: Marge coding and User Testing
 - Lead by Azmat Path
 - Documented: https://github.com/HTTP5214-Winter2023/team-C4RBON/blob/main/MuskanAggarwal/Muskan-Aggarwal-standup-log.md
@@ -75,6 +76,7 @@ Our team had the following meetings:
 # Date: 29th Mar, 2023
 ## Work
 - I have updated design as per the user feedback on front-end layout
+- I have updated validation and display output as table 
 - I have tested my front-end by my self.
 ## Meeting
 Our team had the following meetings:
