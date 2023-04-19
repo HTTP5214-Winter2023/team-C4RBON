@@ -135,4 +135,16 @@ footer{
   text-align: center;
 }
 
+#students-list {
+  margin: 2%;
+  width: 100%;
+  border: 1px solid;
+}
 
+#students-list thead th {
+  border: 1px solid #ccc;
+}
+
+#studentData tr td{
+  border: 1px solid #ccc;
+}
