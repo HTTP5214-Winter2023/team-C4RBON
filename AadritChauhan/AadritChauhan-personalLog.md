@@ -4,7 +4,7 @@
 
 ## Completed Task
 
-- Me with Jigar started setting up the stack.
+- Me with Jigar started setting up the stack(MongoDb, Express, Pug/HTML/CSS).
 - A plan was established about how the project has to be started.
 - Scope and requirements for this project were established.
 - Every member's tasks were assigned .
