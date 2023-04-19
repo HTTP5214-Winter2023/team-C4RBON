@@ -58,3 +58,49 @@
 - A personalized kanban board was created on the platform Trello.
 - Documented at: https://github.com/HTTP5214-Winter2023/team-C4RBON/blob/main/JigarRajeshkumarMehta/Jigar-Rajeshkumar-Mehta-standup-log.md#week-7---22nd-feb-2023
 - Discussed which language should be used during the making of the project, while discussing, I suggested Python as it has vast libraries.
+
+# Date: March 8, 2023
+- I started to learn about setting up the node environment.
+- I created important notes that would help generate our project output.
+
+# Meeting:
+
+- The team has agreed that Lukmon Lasisi will take on the responsibility of being the Scrum Master.
+- They have also decided to work together on a Randomized Grouping Web Application that will make the task of creating group structures easier by automating the process based on entered information.
+- https://github.com/HTTP5214-Winter2023/team-C4RBON/blob/main/JigarRajeshkumarMehta/Jigar-Rajeshkumar-Mehta-standup-log.md#week-9---8th-mar-2023
+- At a meeting with Simon, the project owner, the team members talked about the different tasks needed for the project and came to a final decision.
+
+# Date: March 15, 2023
+
+- I recieved the portion of the work that I had to code.
+- I started to work on index.js
+- I created database on Mongo.db Atlas
+
+# Meeting:
+
+- Aadrit Chauhan was appointed as the scrum master, and the project's tasks were listed in a clear manner.
+- https://github.com/HTTP5214-Winter2023/team-C4RBON/blob/main/JigarRajeshkumarMehta/Jigar-Rajeshkumar-Mehta-standup-log.md#week-10---15th-mar-2023
+- Each team member was assigned specific tasks.
+
+# Date: March 22, 2023
+- I finished my remaining portion of code.
+- I created async functions.
+- I worked on the bugs; data was not getting summited.
+
+# Meeting:
+- The team decided to appoint Azmat Pathan as the scrum master.
+- We successfully merged the code contributed by all team members and managed to get our Minimum Viable Product (MVP) up and running.
+- https://github.com/HTTP5214-Winter2023/team-C4RBON/blob/main/JigarRajeshkumarMehta/Jigar-Rajeshkumar-Mehta-standup-log.md#week-11---22th-mar-2023
+- Our MVP was tested by five students in the class, and we documented the entire process of user testing.
+
+# Date: March 29, 2023
+- I pushed my final code to repo.
+- I self tested my code.
+
+# Meeting:
+
+- Nency was designated as the Scrum Master for the project.
+- Each team member's individual work was pushed to the repository, and we discussed the testing methodologies for the project.
+- https://github.com/HTTP5214-Winter2023/team-C4RBON/blob/main/JigarRajeshkumarMehta/Jigar-Rajeshkumar-Mehta-standup-log.md#week-12---29nd-mar-2023
+- We then allocated the testing work among the team members.
+
