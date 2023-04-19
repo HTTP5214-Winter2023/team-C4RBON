@@ -42,8 +42,7 @@ Our team had the following meetings:
 - documented at https://github.com/HTTP5214-Winter2023/team-C4RBON/blob/main/DarshanVarma/Darshan-Varma-Standup-log.md
 
 
-
-# 22th Feb, 2023
+# 22nd Feb, 2023
 
 ## Work
 - Everyone started doing their setup for Trello board, We also created a basic Kanban board to gather all the discussed points in the board.
@@ -56,6 +55,60 @@ Our team had the following meetings:
 - lead by Jigar.
 documented at https://github.com/HTTP5214-Winter2023/team-C4RBON/blob/main/JigarRajeshkumarMehta/Jigar-Rajeshkumar-Mehta-standup-log.md
 
+# 8th Mar, 2023
+
+## Work
+- Finally decided the automation project and stacks.
+- Done some research on client side and server side rendering.
+- research on any similar type of application.
+## Meetings
+Our team had the following meetings:
+
+- Lukmon as our fifth scrum master was decided.
+- We decided our group automation project as "Randomized Grouping Web Application".
+- This project will automatically split students in random groups.
+- Team members had a discussion about individual responsibilities.
+
+# 15th Mar, 2023
+
+## Work
+- I started working on Database.
+- I discussed with the potential fields in table.
+- Also with that we decided to have 2 sub projects
+## Meetings
+Our team had the following meetings:
+
+- Aadrit Chauhan was decided as the scrum master.
+- Project tasks were listed clearly.
+- Every team member was assigned tasks.
+- I started working on the DB structure and backend work to store arrays into database.
+
+# 22nd Mar, 2023
+
+## Work
+- Our MVP was ready for testing.
+- I tested the project with users and took there responses.
+- I documented the final feedback of the users.
+## Meetings
+Our team had the following meetings:
+
+- I was decided as the scrum master.
+- Integrated all team members code and got our MVP working.
+- User tested our MVP from 5 students in the class.
+- Documented user testing process.
+
+# 29th Mar, 2023
+
+## Work
+- I worked on potential bugs.
+- We all worked to keep our logs and reports up to date.
+## Meetings
+Our team had the following meetings:
+
+- Nency was appointed as Scrum Master.
+- Local written code was pushed to repo, with individual work.
+- Project testing methodologies were discussed.
+- Distributed testing work.
 
 
 
