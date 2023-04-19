@@ -54,8 +54,8 @@ Week 2 - January 18th, 2023
 - The team has appointed Azmat Pathan as the Scrum Master. 
 - They successfully merged all team members' code and were able to get their Minimum Viable Product (MVP) up and running. A group of 5 students from the class was selected to test the MVP, and the team documented the entire user testing process.
 
-# Week 12 - March 29nd, 2023
+# Week 12 - March 29th, 2023
 - Me(Nency) was appointed as Scrum Master.
 - Project testing methodologies were discussed.
-- As per the feed back given by the testers we decided to modifie he code little bit to make it more user friendly.
+- As per the feed back given by the testers we decided to modified the code little bit to make it more user-friendly.
 - We Distributed testing work among the team members.
