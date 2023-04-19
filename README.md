@@ -21,4 +21,4 @@
 # User Testing Note:
 - userTesting.md file url: https://github.com/HTTP5214-Winter2023/team-C4RBON/blob/main/userTesting.md
 # Meeting Notes:
-- Team meeting notes.md
+- Team meeting notes.md url: https://github.com/HTTP5214-Winter2023/team-C4RBON/blob/main/Team%20meeting%20notes.md
