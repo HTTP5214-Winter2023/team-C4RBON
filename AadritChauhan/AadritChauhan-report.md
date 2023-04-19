@@ -68,6 +68,7 @@ Our team had the following meetings:
 - Lukmon as our fifth scrum master was decided.
 - Our group automation project was decided "Randomized Grouping Web Application", which splits students in random groups according to the entered no. of students in each group.
 - Individual tasks were discussed.
+- Link for documentation- https://github.com/HTTP5214-Winter2023/team-C4RBON/blob/main/LukmonLasisi/Update-Lukmon-Lasisi-stand-up.md
 
 # 15th Mar, 2023
 
@@ -97,6 +98,7 @@ Our team had the following meetings:
 - Integration was done on all team mmeber's code and got the MVP working.
 - User testing was done on 5 students  in the class.
 - Documentation on user testing was done.
+- Link for documentation- https://github.com/HTTP5214-Winter2023/team-C4RBON/blob/main/AzmatRashidPathan/Azmat-Rashid-Pathan-standup-log.md
 
 # 29th Mar, 2023
 
@@ -112,5 +114,6 @@ Our team had the following meetings:
 - Code was finally pushed to gitHub.
 - Project testing methodologies were discussed.
 - Work on recieved feedback during user testing was distributed.
+- Link for documentation- https://github.com/HTTP5214-Winter2023/team-C4RBON/blob/main/NencyNileshkumarModi/Nency-Nileshkumar-Modi-standup-log.md
 
 
