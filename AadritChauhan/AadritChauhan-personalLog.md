@@ -6,6 +6,7 @@
 
 - Me with Jigar started setting up the stack.
 - A plan was established about how the project has to be started.
+- Scope and requirements for this project were established.
 - Every member's tasks were assigned .
 - Work on the project started.
 
