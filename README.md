@@ -19,6 +19,6 @@
 - Project directory: groupProject.
 - URL: https://github.com/HTTP5214-Winter2023/team-C4RBON/tree/main/groupProject
 # User Testing Note:
-- userTesting.md file
+- userTesting.md file url: https://github.com/HTTP5214-Winter2023/team-C4RBON/blob/main/userTesting.md
 # Meeting Notes:
 - Team meeting notes.md
