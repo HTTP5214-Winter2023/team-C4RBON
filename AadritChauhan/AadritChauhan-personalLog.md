@@ -4,19 +4,19 @@
 
 ## Completed Task
 
-- Completed Pull requests module.
+- Me with Jigar started setting up the stack.
 - A plan was established about how the project has to be started.
-- Every member's tasks were assigned clearly.
+- Every member's tasks were assigned .
 - Work on the project started.
 
 ## Items to Discuss
 
-- Project scope seems too small for 8 members,so I need to come up with more ideas.
+- Project scope seems too small for 8 members,so a need of another project was established.
 - Creating a timeline for tasks already distributed among members.
 - Members currently working locally on the computer, need to be pushed to github for proper workflow. 
 
 ## Action Items for Next Week
 
 - Deciding next scrum master.
-- To come up with more ideas that can be added with this project..
+- To come up with more project ideas that can be added with this project.
 
