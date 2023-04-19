@@ -82,6 +82,7 @@ Our team had the following meetings:
 - I(Aadrit Chauhan) was decided as the scrum master.
 - Project tasks were listed clearly as their was some confusion earlier.
 - Team discussion on entity fields was done.
+- Link for documentation- https://github.com/HTTP5214-Winter2023/team-C4RBON/blob/main/AadritChauhan/AadritChauhan-personalLog.md
 
 # 22nd Mar, 2023
 
