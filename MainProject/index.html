@@ -10,7 +10,6 @@
   <script src="js/splitGroups.js"></script>
   <title>Auto Group Arragmenet</title>
 </head>
-
 <body>
   <header>
     <nav>
@@ -45,25 +44,34 @@
       <div class="detail">
         <form action="#" method="post" id="submitForm">
           <label for="name">Student Name:</label>
-          <input type="text" id="name" name="name" placeholder="Harsh Patel ">
+          <input type="text" id="name" name="name" placeholder="Harsh Patel" >
 
           <label for="number">Student Number:</label>
-          <input type="text" id="number" name="number" placeholder="42562685" >
+          <input type="number" id="number" name="number" placeholder="42562685" >
 
           <label for="email">Email ID:</label>
-          <input type="email" id="email" name="email" placeholder="email@gmail.com">
+          <input type="email" id="email" name="email" placeholder="email@gmail.com" >
      
           <button type="button" id="add-student"> + Add More</button>
-          <p id="students-list">
-            <!-- list of students added -->
-          </p>
+          
+          <table id="students-list">
+            <thead>
+              <th>Name</th>
+              <th>Number</th>
+              <th>Email</th>
+            </thead>
+            <tbody id="studentData">
+
+            </tbody>
+          </table>
           <label for="groupSize">Number of student per group</label>
-          <input type="number" id="groupSize" name="groupSize" placeholder="4 or 5">
+          <input type="number" id="groupSize" name="groupSize" placeholder="4 or 5" required>
 
           <input type="submit" value="Split group" >
         </form>
-        <p id="groupList">
+        <div id="groupList">
           <!-- groups divided here -->
+<<<<<<< HEAD
         </p>
         <table id="myTable">
           <tbody>
@@ -77,19 +85,22 @@
           <input type="file" id="excel-file" name="excel-file" accept=".xls,.xlsx">
           <input type="submit" value="Upload">
         </form>
+=======
+        </div>
+>>>>>>> 315b96b7671b03901472cf8c0920ed283bb51fe5
       </div>
     </section>
     <h2>Contact Us</h2>
     <section id="contactUs">
       <form action="" method="post">
         <label for="name">Full Name:</label>
-        <input type="text" id="name" name="name" placeholder="John" required>
+        <input type="text" id="name" name="name" placeholder="John">
 
         <label for="email">Email:</label>
         <input type="email" id="email" name="email" placeholder="email@gmail.com" required>
 
         <label for="message">Message:</label>
-		    <textarea id="message" name="message" rows="5" cols="150" placeholder="Write your message here"></textarea>
+		    <textarea id="message" name="message" rows="5" cols="150" placeholder="Write your message here" required></textarea>
         
         <input type="submit" value="submit">
       </form>

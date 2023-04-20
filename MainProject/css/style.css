@@ -135,6 +135,7 @@ footer{
   text-align: center;
 }
 
+<<<<<<< HEAD
 #myTable {
   border-collapse: collapse;
   width: 100%;
@@ -150,4 +151,18 @@ footer{
   background-color: #f2f2f2;
 }
 
+=======
+#students-list {
+  margin: 2%;
+  width: 100%;
+  border: 1px solid;
+}
+>>>>>>> 315b96b7671b03901472cf8c0920ed283bb51fe5
 
+#students-list thead th {
+  border: 1px solid #ccc;
+}
+
+#studentData tr td{
+  border: 1px solid #ccc;
+}

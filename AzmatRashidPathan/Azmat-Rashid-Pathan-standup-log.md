@@ -48,7 +48,7 @@
 
 
 ## Week 9 - 8th Mar, 2023
-- Jigar mehta as our fifth scrum master was decided.
+- Lukmon as our fifth scrum master was decided.
 - We decided our group automation project as "Randomized Grouping Web Application".
 - This project will automatically split students in random groups.
 - Team members had a discussion about individual responsibilities.
@@ -68,3 +68,9 @@
 - Integrated all team members code and got our MVP working.
 - User tested our MVP from 5 students in the class.
 - Documented user testing process.
+
+## Week 11 - March 29, 2023
+- Nency was appointed as Scrum Master.
+- Local written code was pushed to repo, with individual work.
+- Project testing methodologies were discussed.
+- Distributed testing work.

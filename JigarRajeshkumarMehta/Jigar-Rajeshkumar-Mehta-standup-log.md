@@ -21,12 +21,13 @@
 - Some remaining teammates were added to GitHub.
 - Finalised Trello platform for keeping track of things.
 # Week 7 - 22nd Feb, 2023
-- Kanban board was created on trello.
-- Held discussion about languages and frameworks
-# Week 9 - 8th Mar, 2023
 - Jigar Mehta(me) was appointed as Scrum Master.
 - Personalised kanban board was created on platform Trello.
 - Discussed which language should be used during making of project, while discussion, I suggested Python as it has vast libraries.
+# Week 9 - 8th Mar, 2023
+- The team has agreed that Lukmon Lasisi will take on the responsibility of being the Scrum Master. 
+- They have also decided to work together on a Randomized Grouping Web Application that will make the task of creating group structures easier by automating the process based on entered information.
+- At a meeting with Simon, the project owner, the team members talked about the different tasks needed for the project and came to a final decision.
 # Restrospective meeting
 - What went well: The project idea was finalised and tasks were segregated.
 - What did not go well: Responsibilities couldn’t be finalised because we all have different special areas to work.

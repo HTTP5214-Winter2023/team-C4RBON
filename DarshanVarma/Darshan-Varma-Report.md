@@ -54,3 +54,50 @@ Our team had the following meetings:
 - Scrum master : Jigar Mehta.
 - A personalized kanban board was created on the platform Trello.
 - Discussed with the team with which coding language should we proceed ahead for the project but could not fix anything yet.
+
+# 8th Mar, 2023
+
+## Work
+- Decided the automation project and stacks on which we want to work.
+- Started breaking down the tasks and researched on server side and client side rendering.
+- Did online research on similar type of application.
+## Meetings
+Our team had the following meetings:
+- Lukmon as our fifth scrum master was decided.
+- We decided our group automation project as "Randomized Grouping Web Application".
+- This project will automatically split students in random groups.
+- Team members had a discussion about individual responsibilities.
+
+# 15th Mar, 2023
+## Work
+- I started working on backend work and also css of the application which was my individual responsibility.
+- Worked on how to fetch json from frontend and process it in backend and store in database.
+## Meetings
+Our team had the following meetings:
+- Aadrit Chauhan was decided as the scrum master.
+- Project tasks were listed clearly and everyone were handled their responsibilities.
+- I started on backend functions and to pass the data in json array to database.
+
+# 22nd Mar, 2023
+
+## Work
+- MVP was ready for testing.
+- Tested the project with 5 users and noted down their responses.
+- Documented the final feedback of the users.
+## Meetings
+Our team had the following meetings:
+- Azmat Pathan was decided as the scrum master.
+- Integrated all team members code and got our MVP working.
+- User tested our MVP from 5 students in the class.
+- Documented user testing process.
+
+# 29th Mar, 2023
+
+## Work
+- Started working on potential bugs.
+- We all as a team worked to keep our logs and reports up to date.
+## Meetings
+Our team had the following meetings:
+- Nency was appointed as Scrum Master.
+- Local written code was pushed to repo, with individual work and worked on the conflicts.
+- Project testing methodologies were discussed.

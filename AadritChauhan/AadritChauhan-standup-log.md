@@ -42,7 +42,7 @@
 ## Week 7 - 22nd Feb,2023
 - Our fourth scrum master was decided.
 - Kanban board was created on trello.
-- Discussion about preferred language/framework was held
+- Discussion about preferred language/framework was held.
 
 ## Week 9 - 8th Mar,2023
 
@@ -52,7 +52,7 @@
 - Team members had a discussion about indicidual resposibilities.
 
 ## Restrospective meeting
-- What went well: The project idea was finalised
+- What went well: The project idea was finalised.
 - Despite being a big team, our coordination went well.
 - What did not go well: Responsibilities couldn’t be finalised because we all wanted to work in different areas.
 
@@ -69,3 +69,7 @@
 - Got our MVP user tested from 5 members of our class.
 - Documented the user testing process.
 
+## Week 12 - 29th Mar, 2023
+- Nency was designated as the Scrum Master for the project. 
+- All the work from members was pushed to the gitHub.
+- Worked on feedback recieved during user testing.

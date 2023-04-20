@@ -41,8 +41,6 @@ Meeting information:
 - Purpose- Deciding a language/framework to be worked on
 - Link for documentation-https://github.com/HTTP5214-Winter2023/team-C4RBON/blob/main/DarshanVarma/Darshan-Varma-Standup-log.md
 
-
-
 # 22nd Feb, 2023
 
 ## Work
@@ -56,3 +54,66 @@ Name- Project Specifications
 Scrum Master- Jigar.
 Purpose- Finalize technology to go ahead with the project
 Link for documentation- https://github.com/HTTP5214-Winter2023/team-C4RBON/blob/main/JigarRajeshkumarMehta/Jigar-Rajeshkumar-Mehta-standup-log.md
+
+
+# 8th Mar, 2023
+
+## Work
+- Automation project and the stack to be worked on was decided.
+- Researched was done on the stack to be set-up as it was my task.
+
+## Meetings
+Our team had the following meetings:
+
+- Lukmon as our fifth scrum master was decided.
+- Our group automation project was decided "Randomized Grouping Web Application", which splits students in random groups according to the entered no. of students in each group.
+- Individual tasks were discussed.
+- Link for documentation- https://github.com/HTTP5214-Winter2023/team-C4RBON/blob/main/LukmonLasisi/Update-Lukmon-Lasisi-stand-up.md
+
+# 15th Mar, 2023
+
+## Work
+- I started my work on setting up the stack i.e. backend.
+- Team discussion on entity fields was done.
+- Had a discussion with team members working on frontend. 
+
+## Meetings
+Our team had the following meetings:
+
+- I(Aadrit Chauhan) was decided as the scrum master.
+- Project tasks were listed clearly as their was some confusion earlier.
+- Team discussion on entity fields was done.
+- Link for documentation- https://github.com/HTTP5214-Winter2023/team-C4RBON/blob/main/AadritChauhan/AadritChauhan-personalLog.md
+
+# 22nd Mar, 2023
+
+## Work
+- Did user testing myself before approaching other people.
+- User tested the project with my classmate Kevin and documented it.
+
+## Meetings
+Our team had the following meetings:
+
+- Azmat Pathan was decided as the scrum master.
+- Integration was done on all team mmeber's code and got the MVP working.
+- User testing was done on 5 students  in the class.
+- Documentation on user testing was done.
+- Link for documentation- https://github.com/HTTP5214-Winter2023/team-C4RBON/blob/main/AzmatRashidPathan/Azmat-Rashid-Pathan-standup-log.md
+
+# 29th Mar, 2023
+
+## Work
+- Worked on the feedback recieved from the user testing.
+- Made some minor changed to the main backend file(index.js).
+- Updated my logs.
+- 
+## Meetings
+Our team had the following meetings:
+
+- Nency was appointed as Scrum Master.
+- Code was finally pushed to gitHub.
+- Project testing methodologies were discussed.
+- Work on recieved feedback during user testing was distributed.
+- Link for documentation- https://github.com/HTTP5214-Winter2023/team-C4RBON/blob/main/NencyNileshkumarModi/Nency-Nileshkumar-Modi-standup-log.md
+
+

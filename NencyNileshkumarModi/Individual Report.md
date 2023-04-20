@@ -68,6 +68,74 @@ documented at https://github.com/HTTP5214-Winter2023/team-C4RBON/blob/main/Darsh
 
 # Meetings
 Our team had the following meetings:
-	3rd standup Meeting
+3rd standup Meeting
 lead by {Darshan Varma},
 documented at https://github.com/HTTP5214-Winter2023/team-C4RBON/blob/main/JigarRajeshkumarMehta/Jigar-Rajeshkumar-Mehta-standup-log.md#week-7---22nd-feb-2023
+
+######################
+8th March, 2023
+
+
+# Work
+This week, our group has decided on a project that we will work on in the coming weeks.
+This automated group splitter app is very good and I was brainstorming the logic for it as a developer and was impressed with how well it worked.
+In order to get a better understanding of the logic of the report, I was looking through reports online to get a grasp of it and planning to come up with an algorithm that would be able to implement it smoothly.
+Our team had the following meetings:
+
+# Meetings
+5th Standup Meeting
+lead by Lukmon Lasisi.
+documented at https://github.com/HTTP5214-Winter2023/team-C4RBON/blob/main/LukmonLasisi/Update-Lukmon-Lasisi-stand-up.md
+
+
+
+
+######################
+# {15th March, 2023}
+
+
+# Work
+The decision was made in this week for Adrit Chauhan to become the scrum master and he led the meeting of the week 10 in that capacity.
+The team decided that we will distribute the project equally among the members of the team, and we will work on it together.
+During one of my work days, I was working on the javascript part of a node.js project on the front-end part of the project in which Muskan is split into two groups.
+After creating the algorithm and steps for the logic, we decided to start coding the part as soon as possible.
+
+
+Our team had the following meetings:
+
+# Meetings
+6th Standup Meeting
+lead by Aadrit Chauhan.
+documented at https://github.com/HTTP5214-Winter2023/team-C4RBON/blob/main/AadritChauhan/AadritChauhan-standup-log.md#week-10---15th-mar2023
+
+
+######################
+# {22nd  March, 2023}
+
+
+# Work
+Earlier this week, Azmat Pathan decided to become a scrum master instead of a developer.
+During this week I had the opportunity to do usability testing with a few members of my team on the coding part of the project.
+The five users that we have selected for the testing of our project the individual in order for us to be able to publish the work on the Github site.
+
+# Meetings
+7th Standup Meeting
+lead by Azmat Pathan.
+documented at https://github.com/HTTP5214-Winter2023/team-C4RBON/blob/main/AzmatRashidPathan/Azmat-Rashid-Pathan-standup-log.md#week-11---22th-mar-2023
+
+
+######################
+# {29th  March, 2023}
+
+
+# Work
+This week I was chosen to be the scrum master in the group.
+As a result of receiving feedback from my users, I decided to take action on some of them to improve the site a bit.
+I started working on grouping it in tabular format for easy reading
+Distributed the work among the members to make the website more user-friendly
+
+# Meetings
+8th Standup Meeting
+lead by Nency Modi.
+documented at https://github.com/HTTP5214-Winter2023/team-C4RBON/blob/main/NencyNileshkumarModi/Nency-Nileshkumar-Modi-standup-log.md#week-12---march-29th-2023
+
