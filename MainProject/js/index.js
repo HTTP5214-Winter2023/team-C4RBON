@@ -47,8 +47,27 @@ function pageloaded() {
         }
         document.getElementById("groupList").innerHTML = "Groups List: " + groupsNamesArr.join(", ");
 
-        var table = document.getElementById("table");  // set this to your table
+        //var table = document.getElementById("table");  // set this to your table
+         // array containing the data to be displayed in the table
+        
 
+  // get a reference to the table body
+  var tableBody = document.querySelector("#myTable tbody");
+
+  // loop through the array and generate the HTML code for each row
+  for (var i = 0; i < groupsNamesArr.length; i++) {
+    var row = document.createElement("tr");
+
+    // loop through the array again and generate the HTML code for each cell
+    for (var j = 0; j < groupsNamesArr[i].length; j++) {
+      var cell = document.createElement("td");
+      var cellText = document.createTextNode(groupsNamesArr[i][j] || ""); // add an empty string for undefined values
+      cell.appendChild(cellText);
+      row.appendChild(cell);
+    }
+
+    tableBody.appendChild(row);
+  }
 
         return false;
     }

@@ -83,7 +83,7 @@ Week 11 - March 22, 2023
 - We successfully merged all team members' code and were able to get the (MVP) up and running. 
 - A group of 5 students from the class were selected to test the MVP, and documented the entire user testing process with feedbacks.
 
-Week 11 - March 29, 2023
+Week 12 - March 29, 2023
 - Nency was appointed as Scrum Master.
 - Local written code was pushed to repo, with individual work.
 - Project testing methodologies were discussed.

@@ -135,4 +135,19 @@ footer{
   text-align: center;
 }
 
+#myTable {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#myTable td, #myTable th {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+#myTable th {
+  background-color: #f2f2f2;
+}
+
 
